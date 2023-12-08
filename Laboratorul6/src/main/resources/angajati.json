@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Harda Alin",
+    "post": "Tata lor",
+    "data_angajarii": "15/10/2005",
+    "salariu": 20000
+  },
+  {
+    "nume": "Marian Marian",
+    "post": "Sefu' la bani",
+    "data_angajarii": "17/04/2005",
+    "salariu": 20000
+  },
+  {
+    "nume": "Popa Razvan",
+    "post": "Apasator de butoane",
+    "data_angajarii": "20/08/2010",
+    "salariu": 15000
+  },
+  {
+    "nume": "Vericu' Andrei",
+    "post": "Convingator de clienti",
+    "data_angajarii": "18/05/2023",
+    "salariu": 1000
+  },
+  {
+    "nume": "Dorian Popa",
+    "post": "Hatz-uitorul",
+    "data_angajarii": "01/01/2023",
+    "salariu": 2000
+  }
+]
